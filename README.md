@@ -1,4 +1,4 @@
-# MobileEdgesim
+![Deploy_resultDisplay](https://github.com/ssea-lab/MobileEdgesim/assets/145564757/052876d0-4e29-4cf9-a100-6ee5cbbab65f)# MobileEdgesim
 We developed a tool called MobileEdgesim designed to simulate microservices-oriented mobile edge computing environments.
 
 # Abstract
@@ -29,8 +29,17 @@ The project `edge_front-master` is the front-end part, the front-end is written 
 https://blog.csdn.net/qq_33036061/article/details/115046354
 
 The interface after deployment is as follows:
+**fig1&2 Deploy Result & Deploy Configuration**
 
-![原型图](./pic/%E5%8E%9F%E5%9E%8B%E5%9B%BE.png)
+<img src="./readmeFiles/Deploy_resultDisplay.png" width="50%"><img src="./readmeFiles/Deploy_config.png" width="50%">
+
+**fig3&4 Deploy Result Analysis & Allocate User Display**
+
+<img src="./readmeFiles/Deploy_analysis.png" width="50%"><img src="./readmeFiles/allocUser_display.png" width="50%">
+
+**fig5&6 Allocate User Simulation & Allocate User Statistic**
+
+<img src="./readmeFiles/allocUser_simulation.png" width="50%"><img src="./readmeFiles/allocUser_statistic.png" width="50%">
 
 ### Back-End
 
