@@ -18,13 +18,13 @@ http://localhost:8080/
 
 The overall platform architecture is shown below:
 
-![架构图](./pic/%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97%E4%BB%BF%E7%9C%9F%E5%B9%B3%E5%8F%B0.png)
+![架构图](./readmeFiles/Architecture.png)
 
 ## Platform deployment
 
 ### Web Front-End
 
-The project `edge_front` is the front-end part, the front-end is written by React, please deploy it in a reverse proxy server, such as Nginx, the specific deployment method can be referred to:
+The project `edge_front-master` is the front-end part, the front-end is written by React, please deploy it in a reverse proxy server, such as Nginx, the specific deployment method can be referred to:
 
 https://blog.csdn.net/qq_33036061/article/details/115046354
 
@@ -34,7 +34,7 @@ The interface after deployment is as follows:
 
 ### Back-End
 
-The project `automove` is the back-end part, the back-end is written by Django, for convenience, please try to deploy the back-end and front-end on the same physical machine, the deployment method of the back-end is the deployment method of the Django project, please refer to the online tutorials, or you can directly enter the command if you want to run it simply:
+The project `edge_backend-master` is the back-end part, the back-end is written by Django, for convenience, please try to deploy the back-end and front-end on the same physical machine, the deployment method of the back-end is the deployment method of the Django project, please refer to the online tutorials, or you can directly enter the command if you want to run it simply:
 
 ```bash
 python manage.py runserver
