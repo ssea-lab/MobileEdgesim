@@ -27,7 +27,7 @@ The overall platform architecture is shown below:
 ### Web Front-End
 
 The project `edge_front-master` is the front-end part, the front-end is written by React, please deploy it in a reverse proxy server, such as Nginx, the specific deployment method can be referred to:
-[Front-End deploy guide](./edge_front-master/edge_front-master/readme.md)
+[Front-End deploy guide](./edge_front-master/edge_front-master/README.md)
 
 The interface after deployment is as follows:
 
