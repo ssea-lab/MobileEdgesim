@@ -18,7 +18,7 @@ http://localhost:8080/
 
 The overall platform architecture is shown below:
 
-![架构图](./readmeFiles/Architecture.png)
+![architecture figure](./readmeFiles/Architecture.png)
 
 ## Platform deployment
 
