@@ -29,6 +29,7 @@ The project `edge_front-master` is the front-end part, the front-end is written 
 https://blog.csdn.net/qq_33036061/article/details/115046354
 
 The interface after deployment is as follows:
+
 **fig1&2 Deploy Result & Deploy Configuration**
 
 <img src="./readmeFiles/Deploy_resultDisplay.png" width="50%"><img src="./readmeFiles/Deploy_config.png" width="50%">
