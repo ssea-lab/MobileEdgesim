@@ -1,4 +1,4 @@
-![Deploy_resultDisplay](https://github.com/ssea-lab/MobileEdgesim/assets/145564757/052876d0-4e29-4cf9-a100-6ee5cbbab65f)# MobileEdgesim
+# MobileEdgesim
 We developed a tool called MobileEdgesim designed to simulate microservices-oriented mobile edge computing environments.
 
 # Abstract
