@@ -14,7 +14,7 @@ Mobile edge computing (MEC) is an emerging computing paradigm that is receiving 
 This project is an edge computing simulation platform, including two modules of `service deployment` and `user assignment` under edge computing. For the service deployment and user assignment modules, please deploy the platform according to this document and test it on the front-end page.
 We also provide a test video for reference.
 A demo video of *MobileEdgesim* is at:
-https://youtu.be/b-7KxJw92YY
+
 
 ## Platform Architecture
 
